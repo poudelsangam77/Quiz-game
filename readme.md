@@ -1,0 +1,1 @@
+#This is project is the python quiz....it is done by my intermediate knowledge of the python ... and with my own logic .......Thanks you 
